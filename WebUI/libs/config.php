@@ -220,7 +220,7 @@
 
 	$wallets['OKCash'] = array(
 		"user" => "user",  
-		"pass" => "stakebox",      
+		"pass" => "rokos",      
 		"host" => "localhost",     
 		"port" => 6969,
 		"protocol" => "http",
